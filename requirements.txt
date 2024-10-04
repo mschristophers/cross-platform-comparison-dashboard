@@ -1,2 +1,7 @@
 streamlit
 pandas
+google-cloud-bigquery
+google-auth
+plotly
+db-dtypes
+google-cloud-bigquery[all]
